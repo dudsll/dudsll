@@ -1,66 +1,70 @@
-<h1 align="center">Olá 👋, eu sou o Eduardo</h1>
+<h1 align="center">Eduardo Lopes</h1>
 
 <p align="center">
-  💻 Estudante de TI | 🚀 Focado em desenvolvimento Front-End  
+  Desenvolvedor Front-End em formação • Foco em React e JavaScript
+</p>
+
+<p align="center">
+  <a href="https://github.com/dudsll">
+    <img src="https://img.shields.io/github/followers/dudsll?label=Seguidores&style=flat" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20oportunidades-green" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre
 
-- 🎯 Buscando minha primeira oportunidade na área de TI  
-- 💡 Apaixonado por tecnologia e aprendizado constante  
-- 🧠 Atualmente estudando: **React, JavaScript e boas práticas de desenvolvimento**
-- 🔧 Já desenvolvi projetos reais com versionamento no GitHub  
-- 📈 Evoluindo todos os dias  
+Estudante de Tecnologia da Informação com foco em desenvolvimento Front-End.  
+Busco minha primeira oportunidade na área, aplicando na prática conceitos modernos de desenvolvimento, versionamento de código e boas práticas utilizadas no mercado.
 
----
-
-## 🛠️ Tecnologias que uso
-
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</div>
+Tenho experiência com projetos próprios, incluindo desenvolvimento, deploy e integração com serviços externos.
 
 ---
 
-## 📌 Projetos em destaque
+## Tecnologias
 
-🔹 [Nome do Projeto](link-do-repo)  
-Descrição curta do que ele faz  
-
-🔹 [Outro Projeto](link-do-repo)  
-Descrição curta  
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-## 🌐 Onde me encontrar
+## Projetos em destaque
 
-- 💼 LinkedIn: [seu-link]
-- 📧 Email: seuemail@email.com
+🔹 **Estética Automotiva (Landing Page)**  
+Aplicação desenvolvida com foco em conversão de clientes, incluindo formulário funcional com integração via EmailJS, deploy e versionamento no GitHub.  
 
----
-
-## ⚡ Curiosidades
-
-- 🚗 Curto estética automotiva (seu projeto 👀)
-- 🎯 Gosto de unir hobby + tecnologia em projetos práticos
-- 🧩 Sempre buscando aprender algo novo
+🔹 **[Adicione aqui outro projeto]**  
+Breve descrição objetiva do problema resolvido e tecnologias utilizadas.
 
 ---
+
+## Estatísticas
 
 <p align="center">
-  Feito com dedicação 🚀
-</p>## Hi there 👋
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dudsll&show_icons=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudsll&layout=compact&theme=default"/>
+</p>
+
+---
+
+## Contato
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <!--
 **dudsll/dudsll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
