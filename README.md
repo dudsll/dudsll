@@ -1,4 +1,4 @@
-<h1 align="center">Eduardo Longo</h1>
+<h1 align="center">Eduardo Longo Lopes</h1>
 
 <p align="center">
   Desenvolvedor Front-End em formação • Foco em React e JavaScript
