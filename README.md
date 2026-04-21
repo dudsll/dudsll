@@ -5,9 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dudsll">
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20oportunidades-green" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -48,18 +53,6 @@ Aplicação desenvolvida com foco em conversão de clientes, incluindo formulár
 </p>
 
 ---
-
-## Contato
-
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <!--
 **dudsll/dudsll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
