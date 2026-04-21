@@ -1,4 +1,4 @@
-<h1 align="center">Eduardo Lopes</h1>
+<h1 align="center">Eduardo Longo</h1>
 
 <p align="center">
   Desenvolvedor Front-End em formação • Foco em React e JavaScript
@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/dudsll">
-    <img src="https://img.shields.io/github/followers/dudsll?label=Seguidores&style=flat" />
-  </a>
   <img src="https://img.shields.io/badge/Status-Disponível%20para%20oportunidades-green" />
 </p>
 
@@ -38,18 +36,14 @@ Tenho experiência com projetos próprios, incluindo desenvolvimento, deploy e i
 
 ## Projetos em destaque
 
-🔹 **Estética Automotiva (Landing Page)**  
+🔹 **Estética Automotiva**  
 Aplicação desenvolvida com foco em conversão de clientes, incluindo formulário funcional com integração via EmailJS, deploy e versionamento no GitHub.  
-
-🔹 **[Adicione aqui outro projeto]**  
-Breve descrição objetiva do problema resolvido e tecnologias utilizadas.
 
 ---
 
 ## Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dudsll&show_icons=true&theme=default"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudsll&layout=compact&theme=default"/>
 </p>
 
