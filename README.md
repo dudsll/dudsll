@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/eduardo-longo-lopes-3a5a111a4">
+  <a href="https://www.linkedin.com/in/eduardo-longo-lopes-3a5a111a4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dudu_llopes@hotmail.com">
