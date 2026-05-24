@@ -1,7 +1,7 @@
 <h1 align="center">Eduardo Longo Lopes</h1>
 
 <p align="center">
-  Desenvolvedor Front-End em formação • Foco em React e JavaScript
+  Desenvolvedor de Software
 </p>
 
 <p align="center">
@@ -18,10 +18,16 @@
 
 ## Sobre
 
-Estudante de Tecnologia da Informação com foco em desenvolvimento Front-End.  
-Busco minha primeira oportunidade na área, aplicando na prática conceitos modernos de desenvolvimento, versionamento de código e boas práticas utilizadas no mercado.
+Olá! Sou o Eduardo 👋
 
-Tenho experiência com projetos próprios, incluindo desenvolvimento, deploy e integração com serviços externos.
+Sou estudante de Tecnologia da Informação e desenvolvedor Front-End apaixonado por tecnologia e desenvolvimento web.
+
+Atualmente venho desenvolvendo projetos utilizando React, JavaScript, HTML e CSS no Front-End, além de também estar estudando e trabalhando com tecnologias Back-End utilizando C# e .NET.
+Tenho conhecimento em integração de APIs, versionamento com Git/GitHub, deploy de aplicações e banco de dados relacionais, buscando sempre evoluir tanto no desenvolvimento Front-End quanto no Back-End.
+
+Além da programação, também gosto bastante de estética automotiva e aquarismo — hobbies que me ajudam a desenvolver atenção aos detalhes, paciência e criatividade. Gosto de aprender constantemente, tanto no mundo da tecnologia quanto em atividades que exigem dedicação e evolução contínua.
+
+Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de software e construir projetos cada vez mais completos para meu portfólio.
 
 ---
 
