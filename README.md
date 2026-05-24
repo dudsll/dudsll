@@ -52,7 +52,7 @@ Aplicação desenvolvida com foco em conversão de clientes, incluindo formulár
 
 ---
 
-## Estatísticas
+<!--## Estatísticas
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudsll&layout=compact&theme=default"/>
