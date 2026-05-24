@@ -50,6 +50,9 @@ Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de so
 🔹 **Estética Automotiva**  
 Aplicação desenvolvida com foco em conversão de clientes, incluindo formulário funcional com integração via EmailJS, deploy e versionamento no GitHub.  
 
+🔹 ModaMax — Sistema Web Integrado
+Projeto acadêmico desenvolvido para uma empresa fictícia do segmento de moda, utilizando C#, ASP.NET, SQL Server e desenvolvimento web responsivo. O sistema contempla gestão de clientes, produtos, categorias e acessos, aplicando conceitos de POO, UX/UI, banco de dados e integração entre Front-End e Back-End.
+
 ---
 
 <!--## Estatísticas
